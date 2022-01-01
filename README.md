@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Margels 🐣
-- 👀 I’m interested in arts, design & anything that tickles my creativity 🎨
+- 👀 I’m love arts, design & anything that tickles my creativity 🎨
 - 🌱 I’m currently learning more about coding with different languages 💻
 - 💞️ I’ve developed iOS apps and looking to make more! 📱
 - ☕️ Support me on Ko-fi: https://ko-fi.com/margelss 🪙
