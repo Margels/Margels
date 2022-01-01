@@ -3,7 +3,7 @@
 ![ Alt text](margels.gif) [](margels.gif)
 
 
-- 👋 Hi, my name is Martina 🐣
+- 👋 Hi, my name is Martina, I'm Italian and I'm 26 🐣
 - 👀 I’m love arts, design & anything that tickles my creativity 🎨
 - 🌱 I’m currently learning more about coding with different languages 💻
 - 💞️ I’ve developed iOS apps and looking to make more! 📱
