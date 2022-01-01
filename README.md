@@ -1,3 +1,8 @@
+# Margels
+
+![ Alt text](margels.gif) [](margels.gif)
+
+
 - 👋 Hi, I’m @Margels 🐣
 - 👀 I’m love arts, design & anything that tickles my creativity 🎨
 - 🌱 I’m currently learning more about coding with different languages 💻
