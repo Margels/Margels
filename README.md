@@ -8,8 +8,6 @@ ___
 
 ### Rivyou, available on the [App Store](https://apps.apple.com/us/app/rivyou/id1538283181)
 
-![Rivyou-promo](https://user-images.githubusercontent.com/89708428/173426858-454b78bc-bdc3-4ee0-ae3d-d26919d58042.jpeg)
-
 ![Rivyou-screenshots](https://user-images.githubusercontent.com/89708428/173425214-97e02a06-84db-4d87-8bdb-4e08c34d960a.png)
 
 
