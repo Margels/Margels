@@ -1,7 +1,7 @@
 
 ![ Alt text](margels.gif) [](margels.gif)
 
-#### Learn the rules like a pro, so you can break them like an artist 👨‍🎨 
+> *Learn the rules like a pro, so you can break them like an artist* 
 
 - 👋 My name is Martina, I'm Italian and I'm 27 🐣
 - 💞️ iOS Developer with a love for coding and design! 📱
