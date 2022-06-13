@@ -3,6 +3,8 @@
 
 > *Learn the rules like a pro, so you can break them like an artist* 
 
+___
+
 - 👋 My name is Martina, I'm Italian and I'm 27 🐣
 - 💞️ iOS Developer with a love for coding and design! 📱
 - 🌱 currently learning to code with different languages 💻
