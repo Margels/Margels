@@ -27,10 +27,4 @@ I work mainly with Swift and UIKit, focusing on feature development, debugging c
 - Experiments and side projects focused on architecture, APIs, and UI
 - Example projects created for technical articles and tutorials
 
-### Interests & focus
-- Clean architecture and separation of concerns  
-- Accessibility (VoiceOver, Dynamic Type)  
-- Networking, deep linking, and complex navigation flows  
-- Continuous learning through side projects and technical writing  
-
 📌 Selected articles and tutorials are available on my LinkedIn and CV
