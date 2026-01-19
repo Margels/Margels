@@ -1,4 +1,3 @@
-# Margels
 
 ![ Alt text](margels.gif) [](margels.gif)
 
@@ -17,7 +16,6 @@ Margels/Margels is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-}
 ## Hi, I’m Martina! 👋
 
 I’m an iOS Developer with experience building and maintaining production mobile applications, primarily in the banking and payments domain.
