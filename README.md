@@ -23,8 +23,6 @@ I’m an iOS Developer with experience building and maintaining production mobil
 I work mainly with Swift and UIKit, focusing on feature development, debugging complex flows, and building accessible, maintainable user interfaces. I’ve worked in consulting environments on large codebases and collaborated closely with cross-platform teams.
 
 ### What you’ll find here
-- Native iOS projects built with UIKit and SwiftUI
-- Experiments and side projects focused on architecture, APIs, and UI
-- Example projects created for technical articles and tutorials
-
-📌 Selected articles and tutorials are available on my LinkedIn and CV
+📌 Native iOS projects built with UIKit and SwiftUI
+📌 Experiments and side projects focused on architecture, APIs, and UI
+📌 Example projects created for technical articles and tutorials
